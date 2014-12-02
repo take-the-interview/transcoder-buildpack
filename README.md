@@ -10,7 +10,7 @@ Usage
 ```
     $ cat .buildpacks
     https://github.com/heroku/heroku-buildpack-python.git
-    https://github.com/take-the-interview/tti-transcoder-buildpack.git
+    https://github.com/take-the-interview/transcoder-buildpack.git
 
     $ heroku create --buildpack https://github.com/ddollar/heroku-buildpack-multi.git
 
